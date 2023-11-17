@@ -1,95 +1,19 @@
+
+<h1 align="center"/>👧Shruti Bot</h1>
 <p align="center">
-    <img width="500" height="500" src="https://i.imgur.com/19Nas88.png"></img>
-</p>
-
-<div align="center">
-
-[![Latest version](https://img.shields.io/github/v/release/barthofu/tscord?color=4b38ff&label=latest%20version&logo=github&logoColor=white&colorA=4b38ff)](https://github.com/barthofu/tscord/releases/latest)
-
-[![Build state](https://img.shields.io/github/actions/workflow/status/barthofu/tscord/build.yml?branch=main&colorB=4b38ff&colorA=4b38ff)](https://github.com/barthofu/tscord/actions/workflows/build.yml)
-![Repo size](https://img.shields.io/github/repo-size/barthofu/tscord?colorB=4b38ff&colorA=4b38ff)
-![Stars count](https://img.shields.io/github/stars/barthofu/tscord?colorB=4b38ff&colorA=4b38ff)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&random=false&width=800&lines=Brace+yourself+for+the+sarcasm+onslaught+-+Your+snarky+assistant!" alt="Typing SVG" /></p>
+<br/>
 <table>
   <tr>
     <td align="center">
    
-# What is TSCord
+# What is Shruti Bot
 
-#### **TSCord** is a fully-featured **[discord bot](https://discord.com/developers/docs/intro#bots-and-apps)** *template* written in [Typescript](https://www.typescriptlang.org/), intended to provide a framework that's easy to use, extend and modify.
+#### An artificial intelligence-powered discord bot with a sarcastic personality that can detect context and respond appropriately. The bot will be designed for general purpose use in a variety of discord servers to increase user activity through comedic interactions.
 
-It uses [`discordx`](https://github.com/discordx-ts/discordx) and [`discord.js v14`](https://github.com/discordjs/discord.js) under the hood to simplify the development of discord bots.
-
-This template was created to give developers a starting point for new Discord bots, so that much of the initial setup can be avoided and developers can instead focus on meaningful bot features. Developers can simply follow the [installation](https://tscord.discbot.app/docs/bot/get-started/installation) and the [configuration](https://tscord.discbot.app/docs/bot/get-started/configuration) instructions, and have a working bot with many boilerplate features already included!        
-    </td>
+It uses [`discordx`](https://github.com/discordx-ts/discordx) and [`discord.js v14`](https://github.com/discordjs/discord.js) under the hood to simplify the development of discord bots.   </td>
   </tr>
 </table>
-
-<table>
-<tr>
-<td align="center">
-ㅤ
-
-ㅤ **[To know how to use TSCord and all its components, check the documentation here](https://tscord.discbot.app/)** ㅤ
-
-</td>
-</tr>
-</table>
-
-*But TSCord is not only a Discord bot template...*
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### [Dashboard](https://github.com/barthofu/tscord-dashboard)
-
-**A ready-to-use fancy dashboard for your TSCord bot!**
-
-<img src="https://user-images.githubusercontent.com/66025667/191989444-5fa096ec-c74e-423d-9735-615b94bc100f.png"></img>
-
-</td>
-<td align="center">
-
-### [Website](https://github.com/barthofu/tscord-website)
-
-**Static front homepage for your TSCord-based bot!**
-
-https://user-images.githubusercontent.com/66025667/184621486-7340157f-b7fc-44ea-94a9-03d76a99384c.mp4
-
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td align="center">
-
-### [CLI](https://github.com/barthofu/tscord-cli)
-
-**A really useful CLI meant to initialize a new TSCord project, generate files by type or even manage plugins!**
-
-https://user-images.githubusercontent.com/66025667/196367258-94c77e23-779c-4d9b-8583-a29226435b07.mp4
-
-</td>
-<td align="center">
-
-### [Plugins](https://github.com/barthofu/tscord-plugins)
-
-**TSCord template is fully extensible thanks to the plugin eco-system!**
-
-<img width="50%" src="https://user-images.githubusercontent.com/66025667/196372599-022c6254-01a6-4f7c-bd52-06246527a8b9.png"></img>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://discord.gg/8P7jFpbKkb" target="_blank">
-        <img width="17.5%" src="https://user-images.githubusercontent.com/66025667/196373934-2fad8760-a58d-4b4d-ad64-b069baa71823.png"></img>
-    </a>
-</div>
 
 
 ## 📜 Features
@@ -131,27 +55,9 @@ This template is also developer friendly and follow strict design patterns to ea
 
 *and many more!*
 
-## 📚 Documentation
-
-### Check the [**official documentation**](https://tscord.discbot.app/) to get started and understand how to use this template.
-
-You can also find useful documentations at:
-- [discordx documentation](https://discordx.js.org/)
-- [Discord.js Guide](https://discordjs.guide/)
-- [Discord's developer portal](https://discord.com/developers/docs/intro)
-
-## 📢 Support
-
-If you need support on the template or just want to exchange with us, don't hesitate to join the **[official Discord support server](https://discord.gg/8P7jFpbKkb)**!
-
-After joining it, select the **TSCord** role to access the category within the server.
-
-## 🌐 Roadmap
-
-#### [Click here](https://github.com/barthofu/tscord-template/milestones?direction=asc&sort=title&state=open) to access the milestone roadmap
 
 ## 📑 License
 
 MIT License
 
-Copyright (c) barthofu
+Copyright (c) amjed-ali-k
